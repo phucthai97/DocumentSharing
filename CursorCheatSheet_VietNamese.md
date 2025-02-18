@@ -1,10 +1,10 @@
 # Cheat Sheet Cursor AI
 
-## Câu hỏi
+## I.Câu hỏi
 - [1. Cursor AI là gì?](#1-cursor-ai-là-gì)
 - [2. Premium Requests là gì?](#2-premium-requests-là-gì)
 
-## Tips
+## II.Tips
 - [1. Add nhiều đoạn code, script vào để hỏi cùng một lượt?](#1-add-nhiều-đoạn-code-script-vào-để-hỏi-cùng-một-lượt)
 - [2. Có thể chỉnh sửa câu hỏi lại nếu bạn không vừa ý câu trả lời của AI](#2-có-thể-chỉnh-sửa-câu-hỏi-lại-nếu-bạn-không-vừa-ý-câu-trả-lời-của-ai)
 
@@ -65,9 +65,10 @@ Mô hình đặc biệt:<br>
 🔗 Chi tiết mức giá cho các model https://docs.cursor.com/settings/models
 <br><br><br>
 
-## Tip<br>
-### 1. Add nhiều đoạn code, script vào để hỏi cùng một lượt?
+## Tips<br>
+### 1. Add nhiều đoạn code, script vào để hỏi cùng một lượt? 
 &emsp;▶ Bôi đoạn code và thao tác add hoặc nhấn phím tắt Ctrl+Shift+L để đính kèm thêm vào câu hỏi để AI hiểu rõ ngữ cảnh hơn<br>
+Back [II. Tips](#iitips)
 
 ### 2. Có thể chỉnh sửa câu hỏi lại nếu bạn không vừa ý câu trả lời của AI
 &emsp;▶ Ở tab chat với cursor. Bạn có thể edit lại câu hỏi hoặc thêm ngữ cảnh (code, function, script) vào để giúp cho câu trả lời của AI chính xác hơn<br>
