@@ -7,6 +7,7 @@
 ## II.Tips
 - [1. Add nhiều đoạn code, script vào để hỏi cùng một lượt?](#1-add-nhiều-đoạn-code-script-vào-để-hỏi-cùng-một-lượt)
 - [2. Có thể chỉnh sửa câu hỏi lại nếu bạn không vừa ý câu trả lời của AI](#2-có-thể-chỉnh-sửa-câu-hỏi-lại-nếu-bạn-không-vừa-ý-câu-trả-lời-của-ai)
+- [3. Tối ưu hóa tài nguyên token](#3-tối-ưu-hóa-tài-nguyên-token)
 
 <br>
 
@@ -73,3 +74,19 @@ Mô hình đặc biệt:<br>
 ### 2. Có thể chỉnh sửa câu hỏi lại nếu bạn không vừa ý câu trả lời của AI
 &emsp;▶ Ở tab chat với cursor. Bạn có thể edit lại câu hỏi hoặc thêm ngữ cảnh (code, function, script) vào để giúp cho câu trả lời của AI chính xác hơn<br>
 [Back to II. Tips](#iitips)
+
+### 3. Tối ưu hóa tài nguyên token
+🔴 Một câu trả lời dài hơn tiêu tốn nhiều token hơn, đồng nghĩa với việc tăng chi phí hoặc giới hạn dung lượng xử lý trong một phiên. Vì vậy chúng ta cần hiểu rõ hơn cách tính và xử lý token như sau<br>
+&emsp; ✏️ Nếu không sử dụng các công cụ trên, bạn có thể ước tính số lượng token dựa trên độ dài văn bản:<br>
+&emsp;&nbsp; 🔹 Tiếng Anh: Trung bình, 1 token tương đương khoảng 4 ký tự hoặc 0.75 từ.<br>
+&emsp;&nbsp; 🔹 Tiếng Việt: Do đặc thù ngôn ngữ, 1 token có thể tương đương khoảng 3 ký tự.<br>
+&emsp;&nbsp; 🔹 Tiếng Hàn: Trung bình 1 token ≈ 2 ký tự (do tiếng Hàn sử dụng chữ Hangul có cấu trúc gọn hơn).<br>
+&emsp;Ví dụ:<br>
+&emsp;&nbsp; 🔹 Một đoạn văn bản tiếng Anh dài 100 từ có thể tương đương khoảng 75 token.<br>
+<br>
+💡 Tối ưu hóa token<br>
+&emsp;&nbsp; 🔹 Giảm độ dài câu hỏi nếu không cần thiết.<br>
+&emsp;&nbsp; 🔹 Yêu cầu câu trả lời ngắn gọn nếu cần tiết kiệm token.<br>
+&emsp;&nbsp; 🔹 Sử dụng cú pháp đơn giản thay vì diễn đạt dài dòng.<br>
+[Back to II. Tips](#iitips)
+
