@@ -85,8 +85,8 @@ Mô hình đặc biệt:<br>
 &emsp;&nbsp; 🔹 Một đoạn văn bản tiếng Anh dài 100 từ có thể tương đương khoảng 75 token.<br>
 <br>
 💡 Tối ưu hóa token<br>
-&emsp;&nbsp; 🔹 Giảm độ dài câu hỏi nếu không cần thiết.<br>
-&emsp;&nbsp; 🔹 Yêu cầu câu trả lời ngắn gọn nếu cần tiết kiệm token.<br>
-&emsp;&nbsp; 🔹 Sử dụng cú pháp đơn giản thay vì diễn đạt dài dòng.<br>
+&emsp;&nbsp; ✔️ Giảm độ dài câu hỏi nếu không cần thiết.<br>
+&emsp;&nbsp; ✔️ Yêu cầu câu trả lời ngắn gọn nếu cần tiết kiệm token.<br>
+&emsp;&nbsp; ✔️ Sử dụng cú pháp đơn giản thay vì diễn đạt dài dòng.<br>
 [Back to II. Tips](#iitips)
 
