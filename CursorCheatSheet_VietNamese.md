@@ -1,8 +1,12 @@
 # Cheat Sheet Cursor AI
 
-## Mục lục
+## Câu hỏi
 - [1. Cursor AI là gì?](#1-cursor-ai-là-gì)
 - [2. Premium Requests là gì?](#2-premium-requests-là-gì)
+
+## Tips
+- [1. Add nhiều đoạn code, script vào để hỏi cùng một lượt?](#1-add-nhiều-đoạn-code-script-vào-để-hỏi-cùng-một-lượt)
+- [2. Có thể chỉnh sửa câu hỏi lại nếu bạn không vừa ý câu trả lời của AI](#2-có-thể-chỉnh-sửa-câu-hỏi-lại-nếu-bạn-không-vừa-ý-câu-trả-lời-của-ai)
 
 <br>
 
@@ -45,18 +49,25 @@ Premium Requests là các yêu cầu sử dụng mô hình AI cao cấp trong Cu
 - Yêu cầu chậm (Slow Premium Requests)<br>
 &emsp;✔️ Xử lý trong hàng đợi khi hệ thống quá tải hoặc người dùng đã dùng hết Fast Requests.<br>
 &emsp;✔️ Không giới hạn số lượng (trừ gói Hobby), nhưng thời gian chờ tăng dần theo số lượt đã sử dụng.<br>
-
 Các mô hình Premium được tính vào Premium Requests<br>
 &emsp;▶ GPT-4/GPT-4o: Mô hình xử lý đa nhiệm, phù hợp với code generation và phân tích logic phức tạp.<br>
 &emsp;▶ Claude 3.5 Sonnet: Tối ưu cho tác vụ yêu cầu độ chính xác cao và xử lý ngữ cảnh dài.<br>
 &emsp;▶ Claude 3 Opus: Dành cho tác vụ chuyên sâu (giới hạn 10 lượt/ngày với gói Pro).<br>
 &emsp;▶ Claude 3.5 Haiku: Mỗi lượt gọi tính bằng 1/3 Fast Request.<br>
 &emsp;▶ O1-mini: Giới hạn 10 lượt/ngày (gói Pro).<br>
-
 Cách tính Premium Requests<br>
 &emsp;▶ Gói Hobby: 50 Slow Premium Requests miễn phí/tháng.<br>
 &emsp;▶ Gói Pro: 500 Fast Premium Requests + Unlimited Slow Requests.<br>
 &emsp;▶ Gói Business: Tương tự Pro, thêm tính năng quản lý tập trung và chế độ riêng tư.<br>
 Mô hình đặc biệt:<br>
 &emsp;▶ Claude 3.5 Haiku: 1 lượt gọi = 1/3 Fast Request.<br>
-&emsp;▶ Claude 3 Opus: Sử dụng 10 lượt/ngày (gói Pro).<br>
+&emsp;▶ Claude 3 Opus: Sử dụng 10 lượt/ngày (gói Pro).<br><br>
+🔗 Chi tiết mức giá cho các model https://docs.cursor.com/settings/models
+<br><br><br>
+
+## Tip<br>
+### 1. Add nhiều đoạn code, script vào để hỏi cùng một lượt?
+&emsp;▶ Bôi đoạn code và thao tác add hoặc nhấn phím tắt Ctrl+Shift+L để đính kèm thêm vào câu hỏi để AI hiểu rõ ngữ cảnh hơn<br>
+
+### 2. Có thể chỉnh sửa câu hỏi lại nếu bạn không vừa ý câu trả lời của AI
+&emsp;▶ Ở tab chat với cursor. Bạn có thể edit lại câu hỏi hoặc thêm ngữ cảnh (code, function, script) vào để giúp cho câu trả lời của AI chính xác hơn<br>
