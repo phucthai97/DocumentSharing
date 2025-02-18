@@ -38,3 +38,25 @@ Premium Requests là các yêu cầu sử dụng mô hình AI cao cấp trong Cu
 &emsp;✔️ GPT-4, GPT-4o, Claude 3.5 Sonnet (các mô hình mạnh nhất).<br>
 &emsp;✔️ Các tác vụ phức tạp như phân tích code chuyên sâu, viết lại đoạn code dài, giải thích thuật toán khó.<br>
 &emsp;✔️ Tăng tốc độ xử lý so với các mô hình miễn phí (cursor-small).<br>
+- Yêu cầu nhanh (Fast Premium Requests)<br>
+&emsp;✔️ Được ưu tiên xử lý ngay lập tức, đảm bảo tốc độ phản hồi cao.<br>
+&emsp;✔️ Số lượng giới hạn theo gói đăng ký (ví dụ: 500 yêu cầu/tháng cho gói Pro).<br>
+&emsp;✔️ Khi hết hạn, người dùng chuyển sang yêu cầu chậm hoặc kích hoạt tính năng trả phí theo lượt dùng.<br>
+- Yêu cầu chậm (Slow Premium Requests)<br>
+&emsp;✔️ Xử lý trong hàng đợi khi hệ thống quá tải hoặc người dùng đã dùng hết Fast Requests.<br>
+&emsp;✔️ Không giới hạn số lượng (trừ gói Hobby), nhưng thời gian chờ tăng dần theo số lượt đã sử dụng.<br>
+
+Các mô hình Premium được tính vào Premium Requests<br>
+&emsp;▶ GPT-4/GPT-4o: Mô hình xử lý đa nhiệm, phù hợp với code generation và phân tích logic phức tạp.<br>
+&emsp;▶ Claude 3.5 Sonnet: Tối ưu cho tác vụ yêu cầu độ chính xác cao và xử lý ngữ cảnh dài.<br>
+&emsp;▶ Claude 3 Opus: Dành cho tác vụ chuyên sâu (giới hạn 10 lượt/ngày với gói Pro).<br>
+&emsp;▶ Claude 3.5 Haiku: Mỗi lượt gọi tính bằng 1/3 Fast Request.<br>
+&emsp;▶ O1-mini: Giới hạn 10 lượt/ngày (gói Pro).<br>
+
+Cách tính Premium Requests<br>
+&emsp;▶ Gói Hobby: 50 Slow Premium Requests miễn phí/tháng.<br>
+&emsp;▶ Gói Pro: 500 Fast Premium Requests + Unlimited Slow Requests.<br>
+&emsp;▶ Gói Business: Tương tự Pro, thêm tính năng quản lý tập trung và chế độ riêng tư.<br>
+Mô hình đặc biệt:<br>
+&emsp;▶ Claude 3.5 Haiku: 1 lượt gọi = 1/3 Fast Request.<br>
+&emsp;▶ Claude 3 Opus: Sử dụng 10 lượt/ngày (gói Pro).<br>
