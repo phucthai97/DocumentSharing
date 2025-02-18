@@ -81,8 +81,8 @@ Mô hình đặc biệt:<br>
 &emsp;&nbsp; 🔹 Tiếng Anh: Trung bình, 1 token tương đương khoảng 4 ký tự hoặc 0.75 từ.<br>
 &emsp;&nbsp; 🔹 Tiếng Việt: Do đặc thù ngôn ngữ, 1 token có thể tương đương khoảng 3 ký tự.<br>
 &emsp;&nbsp; 🔹 Tiếng Hàn: Trung bình 1 token ≈ 2 ký tự (do tiếng Hàn sử dụng chữ Hangul có cấu trúc gọn hơn).<br>
-&emsp;Ví dụ:<br>
-&emsp;&nbsp; 🔹 Một đoạn văn bản tiếng Anh dài 100 từ có thể tương đương khoảng 75 token.<br>
+&emsp;&emsp;Ví dụ:<br>
+&emsp;&nbsp;&emsp; 🔹 Một đoạn văn bản tiếng Anh dài 100 từ có thể tương đương khoảng 75 token.<br>
 <br>
 💡 Tối ưu hóa token<br>
 &emsp;&nbsp; ✔️ Giảm độ dài câu hỏi nếu không cần thiết.<br>
