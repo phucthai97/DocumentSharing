@@ -33,8 +33,6 @@ Tính năng chính của Cursor AI.<br>
 &emsp;✔️ Cho phép chọn mô hình AI phù hợp với nhu cầu sử dụng.<br>
 <br>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
 ### 2. Premium Requests là gì?  
 Premium Requests là các yêu cầu sử dụng mô hình AI cao cấp trong Cursor, thường liên quan đến:<br>
 &emsp;✔️ GPT-4, GPT-4o, Claude 3.5 Sonnet (các mô hình mạnh nhất).<br>
