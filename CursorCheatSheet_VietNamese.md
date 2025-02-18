@@ -68,7 +68,7 @@ Mô hình đặc biệt:<br>
 ## Tips<br>
 ### 1. Add nhiều đoạn code, script vào để hỏi cùng một lượt? 
 &emsp;▶ Bôi đoạn code và thao tác add hoặc nhấn phím tắt Ctrl+Shift+L để đính kèm thêm vào câu hỏi để AI hiểu rõ ngữ cảnh hơn<br>
-Back [II. Tips](#iitips)
+[Back to II. Tips](#iitips)
 
 ### 2. Có thể chỉnh sửa câu hỏi lại nếu bạn không vừa ý câu trả lời của AI
 &emsp;▶ Ở tab chat với cursor. Bạn có thể edit lại câu hỏi hoặc thêm ngữ cảnh (code, function, script) vào để giúp cho câu trả lời của AI chính xác hơn<br>
