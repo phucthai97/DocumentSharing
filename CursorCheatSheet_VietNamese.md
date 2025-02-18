@@ -1,8 +1,17 @@
 # Cheat Sheet Cursor AI
 
+## Mục lục
+- [1. Cursor AI là gì?](#1-cursor-ai-là-gì)
+
 # Câu hỏi
 
-### Cursor AI là gì?
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+
+### 1. Cursor AI là gì?
 Cursor AI là một trình soạn thảo mã nguồn tích hợp trí tuệ nhân tạo (AI), được xây dựng dựa trên VS Code, giúp lập trình viên viết code nhanh hơn, sửa lỗi thông minh hơn và tối ưu hóa code hiệu quả hơn.
 Tính năng chính của Cursor AI.  
 1️⃣ Tự động hoàn thành mã (Cursor Tab)  
