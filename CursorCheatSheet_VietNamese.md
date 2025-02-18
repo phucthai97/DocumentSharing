@@ -72,3 +72,4 @@ Mô hình đặc biệt:<br>
 
 ### 2. Có thể chỉnh sửa câu hỏi lại nếu bạn không vừa ý câu trả lời của AI
 &emsp;▶ Ở tab chat với cursor. Bạn có thể edit lại câu hỏi hoặc thêm ngữ cảnh (code, function, script) vào để giúp cho câu trả lời của AI chính xác hơn<br>
+[Back to II. Tips](#iitips)
