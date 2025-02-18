@@ -15,14 +15,14 @@ Tính năng chính của Cursor AI.
 &emsp;✔️ Yêu cầu AI giải thích thuật toán, sửa lỗi hoặc viết code mới.  
 &emsp;✔️ Hỗ trợ chat có ngữ cảnh toàn bộ project, giúp AI hiểu rõ hơn.  
 
-3️⃣ Shadow Workspace – AI chạy code trong nền
-&emsp;✔️ AI có thể thử nghiệm code mà không làm ảnh hưởng đến mã nguồn chính.
-&emsp;✔️ Hỗ trợ kiểm tra lỗi, gợi ý chỉnh sửa và tối ưu hóa code một cách tự động.
+3️⃣ Shadow Workspace – AI chạy code trong nền  
+&emsp;✔️ AI có thể thử nghiệm code mà không làm ảnh hưởng đến mã nguồn chính.  
+&emsp;✔️ Hỗ trợ kiểm tra lỗi, gợi ý chỉnh sửa và tối ưu hóa code một cách tự động.  
 
-4️⃣ Tìm kiếm thông minh trong codebase
-&emsp;✔️ Tìm kiếm theo ngữ nghĩa thay vì chỉ dựa trên từ khóa.
-&emsp;✔️ Hỗ trợ nhận diện hàm, biến và các tài liệu liên quan nhanh chóng.
+4️⃣ Tìm kiếm thông minh trong codebase  
+&emsp;✔️ Tìm kiếm theo ngữ nghĩa thay vì chỉ dựa trên từ khóa.  
+&emsp;✔️ Hỗ trợ nhận diện hàm, biến và các tài liệu liên quan nhanh chóng.  
 
-5️⃣ Tích hợp nhiều mô hình AI mạnh mẽ
-&emsp;✔️ Hỗ trợ GPT-4, GPT-4o, Claude 3.5 Sonnet – những mô hình AI tốt nhất hiện nay.
-&emsp;✔️ Cho phép chọn mô hình AI phù hợp với nhu cầu sử dụng.
+5️⃣ Tích hợp nhiều mô hình AI mạnh mẽ  
+&emsp;✔️ Hỗ trợ GPT-4, GPT-4o, Claude 3.5 Sonnet – những mô hình AI tốt nhất hiện nay.  
+&emsp;✔️ Cho phép chọn mô hình AI phù hợp với nhu cầu sử dụng.  
