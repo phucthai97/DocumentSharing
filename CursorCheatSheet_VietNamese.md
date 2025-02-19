@@ -5,6 +5,11 @@
 - [2. Premium Requests là gì?](#2-premium-requests-là-gì)
 
 ## II.Tips
+<details>
+  <summary>Có thể thêm nhiều đoạn code, script vào để hỏi cùng một lượt</summary>
+  &emsp;▶ Bôi đoạn code và thao tác add hoặc nhấn phím tắt Ctrl+Shift+L để đính kèm thêm vào câu hỏi để AI hiểu rõ ngữ cảnh hơn<br>
+  </details>
+  <br>
 - [1. Add nhiều đoạn code, script vào để hỏi cùng một lượt?](#1-add-nhiều-đoạn-code-script-vào-để-hỏi-cùng-một-lượt)
 - [2. Có thể chỉnh sửa câu hỏi lại nếu bạn không vừa ý câu trả lời của AI](#2-có-thể-chỉnh-sửa-câu-hỏi-lại-nếu-bạn-không-vừa-ý-câu-trả-lời-của-ai)
 - [3. Tối ưu hóa tài nguyên token](#3-tối-ưu-hóa-tài-nguyên-token)
@@ -91,10 +96,5 @@ Mô hình đặc biệt:<br>
 [Back to II. Tips](#iitips)
 
 
-<details>
-  <summary>Nhấp vào đây để mở</summary>
-  
-  Nội dung ẩn ở đây sẽ xuất hiện khi bạn nhấp vào.
-  
-</details>
+
 
