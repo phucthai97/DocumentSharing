@@ -90,3 +90,11 @@ Mô hình đặc biệt:<br>
 &emsp;&nbsp; ✔️ Sử dụng cú pháp đơn giản thay vì diễn đạt dài dòng.<br>
 [Back to II. Tips](#iitips)
 
+
+<details>
+  <summary>Nhấp vào đây để mở</summary>
+  
+  Nội dung ẩn ở đây sẽ xuất hiện khi bạn nhấp vào.
+  
+</details>
+
